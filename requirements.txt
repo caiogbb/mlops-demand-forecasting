@@ -1,0 +1,12 @@
+boto3
+fastapi
+httpx
+joblib
+mlflow
+numpy
+pandas
+prometheus-client
+psycopg2-binary
+pydantic
+scikit-learn
+uvicorn[standard]
